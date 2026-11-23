@@ -67,3 +67,14 @@ Vellore Institute of Technology (VIT), Vellore
 
 
 This project was developed as part of my academic work in Machine Learning and Data Science.
+
+
+## Live Demo
+
+Try the deployed Customer Churn Prediction application:
+
+[Launch Customer Churn Prediction App](https://customerchurnprediction-j2p629krc3m7zrjvxqkgka.streamlit.app/)
+
+## Source Code
+
+[View Project on GitHub](https://github.com/its-srimathi/Customer_Churn_Prediction)
